@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebosmitaPal&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyosish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebosmitaPal&label=Profile%20views&color=0e75b6&style=flat" alt="Debosmita Pal" /> </p>
 
 <h1>💫 About Me:</h1>
 
@@ -37,15 +37,15 @@ Reach Out to me: debosmitapal429@gmail.com https://www.linkedin.com/in/debosmita
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebosmitaPal/DebosmitaPal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebosmitaPal/DebosmitaPal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DebosmitaPal/DebosmitaPal/output/github-snake.svg" />
 </picture>
 
  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyosishpal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debosmitapal/)
 
 ## 💻 Tech Stack:
 
