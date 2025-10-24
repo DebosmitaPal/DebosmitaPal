@@ -18,7 +18,7 @@
 
 Reach Out to me: debosmitapal429@gmail.com https://www.linkedin.com/in/debosmitapal/
 
-
+[![An image of @debosmitapal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debosmitapal)](https://holopin.io/@debosmitapal)
 
 ## 📊 GitHub Stats:
 <div align="center">
